@@ -7,13 +7,13 @@ The job market landscape in the United States has witnessed dynamic shifts over 
 ## Dataset Description
 The dataset used in this analysis originates from a collaboration between LinkedIn and the World Bank Group, and it provided rich employment data for this project. It offered detailed insights into workforce transitions and industry dynamics. The dataset includes: 
 
-- Industry Employment Shifts: Tracks net transitions of LinkedIn members moving between industries.
+- **Industry Employment Shifts**: Tracks net transitions of LinkedIn members moving between industries.
 
-- Talent Migration: Measures workforce movement across regions and industries.
+- **Talent Migration**: Measures workforce movement across regions and industries.
 
-- Industry Skills Needs: Highlights skill gaps and emerging demands within different sectors.
+- **Industry Skills Needs**: Highlights skill gaps and emerging demands within different sectors.
 
-- Skill Penetration: Evaluates the adoption and prevalence of skills across industries.
+- **Skill Penetration**: Evaluates the adoption and prevalence of skills across industries.
 
 ---
 
