@@ -12,7 +12,6 @@ The dataset used in this analysis originates from a collaboration between Linked
 - **Talent Migration**: Measures workforce movement across regions and industries.
 
 - **Industry Skills Needs**: Highlights skill gaps and emerging demands within different sectors.
-
 - **Skill Penetration**: Evaluates the adoption and prevalence of skills across industries.
 
 ---
